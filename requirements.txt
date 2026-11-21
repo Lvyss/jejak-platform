@@ -1,0 +1,7 @@
+numpy
+scipy
+pillow
+pandas
+scikit-learn
+matplotlib
+streamlit>=1.50
